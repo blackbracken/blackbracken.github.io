@@ -1,5 +1,7 @@
 .idea/
 **/*.map
+**/*.html
+**/*.css
 blackbracken.github.io.iml
 
 node_modules/
